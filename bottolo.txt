@@ -9,3 +9,4 @@ c592aabe2b61a8e910eb8159e9000459e4cc05037161299c5b628f8265fc78e0 Paolo
 2a67789f7139c03a8950073ca6e6a0585d030e299edb75595ac33b752c08dd51 Peppe nuova chiave, non si capisce come mai
 ################## NUOVI SERIALI ############################### dal 26/07/23
 394aefac14efc6126e2c52d8de9d6c1bb049006c7603a490ab54e6b961df4fcf Mio pc
+09d65be84f3e2d967229af0b06bff10111f5dff67d96880731e4c535c4d248da cugino peppe
