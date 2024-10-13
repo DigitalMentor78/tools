@@ -16,3 +16,4 @@ f06afe2667e70cefd92d4ff4befad24744770caa7868c7699aee470bb5ac1e86 amico peppe 2.8
 ################## NUOVI SERIALI ############################### dal 22/04/2024
 06ce342c1a7ad537df543a38307a07ab0fa6ddd85a743b8a372924db35884fd0 gruppo facebook
 ccc37d5c576d9bb5e72778acf5e2188838730984400ba7558ab56ae80803d205 mio pc nuovo python
+e05f7fb62b8ac413f6840ed58bdd665319bb5e8d722aa18046c59bd491d2de5a peppe nuova licenza
